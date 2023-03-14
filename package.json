@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "natours app",
+  "main": "app.js",
+  "scripts": {
+    "start": "PORT=5000 nodemon app.js"
+  },
+  "author": "Kyrylo Haiduk <haidukwork@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
